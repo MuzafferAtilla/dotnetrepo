@@ -1,0 +1,10 @@
+/Users/muzafferatilla/Projects/KUSYS-Demo/Core/bin/Debug/netstandard2.1/Core.deps.json
+/Users/muzafferatilla/Projects/KUSYS-Demo/Core/bin/Debug/netstandard2.1/Core.dll
+/Users/muzafferatilla/Projects/KUSYS-Demo/Core/bin/Debug/netstandard2.1/Core.pdb
+/Users/muzafferatilla/Projects/KUSYS-Demo/Core/obj/Debug/netstandard2.1/Core.csproj.AssemblyReference.cache
+/Users/muzafferatilla/Projects/KUSYS-Demo/Core/obj/Debug/netstandard2.1/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muzafferatilla/Projects/KUSYS-Demo/Core/obj/Debug/netstandard2.1/Core.AssemblyInfoInputs.cache
+/Users/muzafferatilla/Projects/KUSYS-Demo/Core/obj/Debug/netstandard2.1/Core.AssemblyInfo.cs
+/Users/muzafferatilla/Projects/KUSYS-Demo/Core/obj/Debug/netstandard2.1/Core.csproj.CoreCompileInputs.cache
+/Users/muzafferatilla/Projects/KUSYS-Demo/Core/obj/Debug/netstandard2.1/Core.dll
+/Users/muzafferatilla/Projects/KUSYS-Demo/Core/obj/Debug/netstandard2.1/Core.pdb

@@ -1,0 +1,17 @@
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/bin/Debug/netstandard2.1/Business.deps.json
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/bin/Debug/netstandard2.1/Business.dll
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/bin/Debug/netstandard2.1/Business.pdb
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/obj/Debug/netstandard2.1/Business.csproj.AssemblyReference.cache
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/obj/Debug/netstandard2.1/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/obj/Debug/netstandard2.1/Business.AssemblyInfoInputs.cache
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/obj/Debug/netstandard2.1/Business.AssemblyInfo.cs
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/obj/Debug/netstandard2.1/Business.csproj.CoreCompileInputs.cache
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/obj/Debug/netstandard2.1/Business.dll
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/obj/Debug/netstandard2.1/Business.pdb
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/bin/Debug/netstandard2.1/Core.dll
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/bin/Debug/netstandard2.1/Entities.dll
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/bin/Debug/netstandard2.1/Core.pdb
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/bin/Debug/netstandard2.1/Entities.pdb
+/Users/muzafferatilla/Projects/KUSYS-Demo/Business/obj/Debug/netstandard2.1/Business.csproj.CopyComplete

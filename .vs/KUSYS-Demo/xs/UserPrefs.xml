@@ -1,0 +1,68 @@
+﻿<Properties StartupConfiguration="{DD0EE134-BBB6-42FB-A470-88C5EB2F12E6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/Concrete/StudentService.cs">
+    <Files>
+      <File FileName="WebApi/Controllers/KusysController.cs" Line="72" Column="10" />
+      <File FileName="Entities/Concrete/Student.cs" Line="14" Column="1" />
+      <File FileName="DataAccess/Concrete/StudentDal.cs" Line="38" Column="48" />
+      <File FileName="DataAccess/Abstract/IStudentDal.cs" Line="17" Column="1" />
+      <File FileName="Entities/Abstract/StudentDetailViewModel.cs" Line="11" Column="1" />
+      <File FileName="Entities/Concrete/Course.cs" Line="1" Column="1" />
+      <File FileName="Entities/Concrete/CourseMatch.cs" Line="9" Column="28" />
+      <File FileName="DataAccess/Concrete/CourseMatchDal.cs" Line="14" Column="10" />
+      <File FileName="Business/Abstract/IStudentService.cs" Line="15" Column="39" />
+      <File FileName="Business/Concrete/StudentService.cs" Line="19" Column="1" />
+      <File FileName="Core/DataAccess/EntityRepositoryBase.cs" Line="28" Column="27" />
+      <File FileName="Core/DataAccess/IEntityRepository.cs" Line="18" Column="1" />
+      <File FileName="DataAccess/Abstract/ICourseDal.cs" Line="9" Column="1" />
+      <File FileName="Entities/Concrete/EntityTypeConfigurations/CourseEntityTypeConfiguration.cs" Line="1" Column="1" />
+      <File FileName="Entities/Concrete/EntityTypeConfigurations/CourseMatchEntityTypeConfiguration.cs" Line="1" Column="1" />
+      <File FileName="Entities/Concrete/EntityTypeConfigurations/StudentEntityTypeConfiguration.cs" Line="1" Column="1" />
+      <File FileName="DataAccess/Concrete/CourseDal.cs" Line="1" Column="1" />
+      <File FileName="DataAccess/Abstract/ICourseMatchDal.cs" Line="13" Column="1" />
+      <File FileName="Business/Concrete/CourseServicee.cs" Line="24" Column="1" />
+      <File FileName="Business/Abstract/ICourseService.cs" Line="12" Column="6" />
+      <File FileName="WebApi/Startup.cs" Line="49" Column="1" />
+      <File FileName="Business/Abstract/ICourseMatchService.cs" Line="11" Column="6" />
+      <File FileName="Business/Concrete/CourseMatchService.cs" Line="24" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KUSYS-Demo" expanded="True">
+            <Node name="Business" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True">
+                <Node name="StudentService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Core" expanded="True">
+              <Node name="DataAccess" expanded="True" />
+            </Node>
+            <Node name="DataAccess" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+            </Node>
+            <Node name="Entities" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True">
+                <Node name="EntityTypeConfigurations" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WebApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

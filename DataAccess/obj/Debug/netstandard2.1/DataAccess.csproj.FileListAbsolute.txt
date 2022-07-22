@@ -1,0 +1,15 @@
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/bin/Debug/netstandard2.1/DataAccess.deps.json
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/bin/Debug/netstandard2.1/Core.dll
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/bin/Debug/netstandard2.1/Entities.dll
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/bin/Debug/netstandard2.1/Entities.pdb
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/bin/Debug/netstandard2.1/Core.pdb
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.AssemblyReference.cache
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/obj/Debug/netstandard2.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfoInputs.cache
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfo.cs
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CopyComplete
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/obj/Debug/netstandard2.1/DataAccess.dll
+/Users/muzafferatilla/Projects/KUSYS-Demo/DataAccess/obj/Debug/netstandard2.1/DataAccess.pdb
